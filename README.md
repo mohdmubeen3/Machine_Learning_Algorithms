@@ -5,10 +5,10 @@ This repository contains my implementations of Machine Learning algorithms using
 ## Completed
 
 - ✅ Simple Linear Regression
+- ✅ Multiple Linear Regression
 
 ## Coming Soon
 
-- Multiple Linear Regression
 - Polynomial Regression
 - Logistic Regression
 - Decision Trees
