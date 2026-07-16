@@ -109,7 +109,7 @@ The Logistic Regression model successfully classified students as Pass or Fail b
 
 ## 👨‍💻 Author
 
-**Mohd Mubeen **
+**Mohd Mubeen**
 
 B.Tech CSE (AI & ML)
 
