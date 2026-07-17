@@ -6,12 +6,12 @@ This repository contains my implementations of Machine Learning algorithms using
 
 - ✅ Simple Linear Regression
 - ✅ Multiple Linear Regression
+- ✅ Decision Trees
 
 ## Coming Soon
 
 - Polynomial Regression
 - Logistic Regression
-- Decision Trees
 - Random Forest
 - KNN
 - SVM
