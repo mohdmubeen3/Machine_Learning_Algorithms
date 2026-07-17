@@ -11,7 +11,6 @@ This repository contains my implementations of Machine Learning algorithms using
 
 ## Coming Soon
 
-- Polynomial Regression
 - Random Forest
 - KNN
 - SVM
