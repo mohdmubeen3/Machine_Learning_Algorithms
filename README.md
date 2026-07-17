@@ -8,6 +8,7 @@ This repository contains my implementations of Machine Learning algorithms using
 - ✅ Multiple Linear Regression
 - ✅ Logistic Regression
 - ✅ Decision Trees
+- ✅ Regression Tree
 
 ## Coming Soon
 
