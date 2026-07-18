@@ -162,4 +162,4 @@ This project demonstrates how K-Nearest Neighbors predicts the class of a new da
 
 ## Author
 
-**Mubeen Sheikh**
+**Mohd Mubeen**
