@@ -9,10 +9,10 @@ This repository contains my implementations of Machine Learning algorithms using
 - ✅ Logistic Regression
 - ✅ Decision Trees
 - ✅ Regression Tree
+- ✅ SVM
 
 ## Coming Soon
 
 - Random Forest
 - KNN
-- SVM
 - K-Means
